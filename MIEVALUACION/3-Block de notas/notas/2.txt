@@ -1,0 +1,5 @@
+Num: 2
+Fecha: 18 - mayo - 2025
+Texto: Esta es mi nota 2.
+Urgencia: Media
+color : amarillo

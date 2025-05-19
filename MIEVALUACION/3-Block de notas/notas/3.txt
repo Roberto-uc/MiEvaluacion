@@ -1,0 +1,5 @@
+Num: 3
+Fecha: 18 - mayo - 2025
+Texto: Esta es mi nota 3.
+Urgencia: Alta
+color : rojo

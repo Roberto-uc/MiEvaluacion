@@ -1,0 +1,5 @@
+Num: 1
+Fecha: 18 - mayo - 2025
+Texto: Esta es mi nota 1.
+Urgencia: Baja
+color : verde
