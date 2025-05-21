@@ -33,7 +33,7 @@ import java.io.*;
     public Temperatura medir()throws Exception;    
     }
     
-    abstract class Termometro{
+    class Termometro{
         protected String escala;
         protected Temperatura temperaturaActual;
         protected Temperatura tempMaxima;
